@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Google Login JRB</string>
+  <string name="action_logout">Sign Out</string>
+  <string name="sign_in_client_id">889163961850-trmu7ngseuuj6t077dbp5ogd71gpso3c.apps.googleusercontent.com</string>
+  <string name="request_label">Request Passphrase</string>
+  <string name="service_url">http://10.0.2.2:8080/</string>
+  <string name="authorization_header">Bearer %1$s</string>
+  <string name="comma_regex">\\s*,\\s*</string>
+</resources>
